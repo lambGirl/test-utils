@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-10-01T17:49:01.341Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="48uNTaJKqFWZzY3RU860" version="13.7.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-11-09T17:41:43.668Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="pgg5ogzUAqMhhJpEiDau" version="13.9.2" type="github" pages="5">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
-    <mxGraphModel dx="7725" dy="5986.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="5433" dy="5366.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1654" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8u1qhFfjfpsjYvNEw95O-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-1660" width="1000" height="610" as="geometry" />
+        </mxCell>
         <mxCell id="ACcv200ihPQqjM33xnzT-37" value="依赖层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;perimeterSpacing=10;fontSize=43;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="95" y="-169" width="210" height="100" as="geometry" />
         </mxCell>
@@ -34,10 +37,10 @@
         <mxCell id="ACcv200ihPQqjM33xnzT-54" value="redux" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;dashed=1;dashPattern=1 4;fontFamily=Comic Sans MS;fontSize=43;" parent="1" vertex="1">
           <mxGeometry x="2180" y="-156" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ACcv200ihPQqjM33xnzT-55" value="" style="shape=ext;rounded=1;double=1;fontFamily=Comic Sans MS;fontSize=43;labelBackgroundColor=none;labelBorderColor=none;fillColor=#fff2cc;strokeColor=#D6B656;" parent="1" vertex="1">
+        <mxCell id="ACcv200ihPQqjM33xnzT-55" value="" style="shape=ext;rounded=1;double=1;fontFamily=Comic Sans MS;fontSize=43;labelBackgroundColor=none;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="303" y="-690" width="1237" height="451" as="geometry" />
         </mxCell>
-        <mxCell id="ACcv200ihPQqjM33xnzT-57" value="自定义theme主题" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;double=1;fontFamily=Comic Sans MS;fontSize=43;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+        <mxCell id="ACcv200ihPQqjM33xnzT-57" value="自定义theme主题" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;double=1;fontFamily=Comic Sans MS;fontSize=43;" parent="1" vertex="1">
           <mxGeometry x="1585" y="-680" width="755" height="436" as="geometry" />
         </mxCell>
         <mxCell id="ACcv200ihPQqjM33xnzT-58" value="kryfe-lib" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=43;" parent="1" vertex="1">
@@ -84,9 +87,6 @@
         </mxCell>
         <mxCell id="TWxSdMsF2TKqnxe4ZzpJ-28" value="test" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontFamily=Comic Sans MS;fontSize=43;" parent="1" vertex="1">
           <mxGeometry x="390" y="-1310" width="170" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="TWxSdMsF2TKqnxe4ZzpJ-41" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#36393d;fontFamily=Comic Sans MS;fontSize=43;fillColor=#eeeeee;" parent="1" vertex="1">
-          <mxGeometry x="550" y="-1740" width="1340" height="790" as="geometry" />
         </mxCell>
         <mxCell id="TWxSdMsF2TKqnxe4ZzpJ-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontSize=43;fontColor=#FAFFFD;" parent="1" source="TWxSdMsF2TKqnxe4ZzpJ-43" target="TWxSdMsF2TKqnxe4ZzpJ-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
